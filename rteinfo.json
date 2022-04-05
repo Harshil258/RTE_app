@@ -15,7 +15,7 @@
     {
       "isdetail": false,
       "Name": " ફોર્મ ભરવા માટે ના આવશ્યક દસ્તાવેજો",
-      "detail": "ફોર્મ ભરવા માટે ના આવશ્યક દસ્તાવેજો",
+      "detail": "https://rte.orpgujarat.com/CmsPage/Details/1",
       "imagelink": "https://harshil258.github.io/RTE_app/Untitled.jpg"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "isdetail": false,
-      "Name": "અપલોડ કરવાના થતા ડોક્યમ ેન્ટ",
+      "Name": "સ્કૂલલિસ્ટ ",
       "detail": "https://rte.orpgujarat.com/Common/SchoolList",
       "imagelink": "https://harshil258.github.io/RTE_app/Untitled(3).png"
     },
@@ -47,6 +47,18 @@
       "Name": "Official Site",
       "detail": "https://rte.orpgujarat.com/",
       "imagelink": "https://harshil258.github.io/RTE_app/Untitled(5).jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Rajasthan RTE",
+      "detail": "https://rajpsp.nic.in/PSP4/Home/home.aspx",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(2).jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Procedure To View Contact Details",
+      "detail": "https://rteinfoapp.blogspot.com/2022/04/procedure-to-view-contact-details.html",
+      "imagelink": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbFzr--kEgycjaP7ltdfRKJPQQ06yUIoCUcJ5JalKVItLp5qOQvBlbtcowFPgOvIyhGytwMal2KUjks0zstPs7exgsmW7IwzKuRWLFRQciY9clUQ1LWn0a9yZZivTdX81spXrqv63melFEUuEF99qaGUVa0B8dKC7I9_JMYIVgt4Q5tyC9IhsYOxSK/s900/contact.jpg"
     }
   ]
 }
