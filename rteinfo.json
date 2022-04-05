@@ -21,14 +21,32 @@
     {
       "isdetail": false,
       "Name": "અપલોડ કરવાના થતા ડોક્યમ ેન્ટ",
-      "detail": "https://rte.orpgujarat.com/Content/Docs/UserManual/required-douments.pdf",
-      "imagelink": "https://harshil258.github.io/RTE_app/requireddoc.jpg"
+      "detail": "https://harshil258.github.io/RTE_app/requireddoc.jpg",
+      "imagelink": "https://harshil258.github.io/RTE_app/documenrtoupload.jpg"
     },
     {
       "isdetail": false,
       "Name": "અપલોડ કરવાના થતા ડોક્યમ ેન્ટ",
       "detail": "https://rte.orpgujarat.com/Common/SchoolList",
       "imagelink": "https://harshil258.github.io/RTE_app/Untitled(3).png"
+    },
+    {
+      "isdetail": false,
+      "Name": "અરજી ની સ્થિતિ ",
+      "detail": "https://rte.orpgujarat.com/ApplicationFormStatus",
+      "imagelink": "https://harshil258.github.io/RTE_app/sthiti.jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Admit Card of RTE Gujarat Admission ",
+      "detail": "https://rteinfoapp.blogspot.com/2022/04/admit-card-of-rte-gujarat-admission.html",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(9).jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "Official Site",
+      "detail": "https://rte.orpgujarat.com/",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(5).jpg"
     }
   ]
 }
