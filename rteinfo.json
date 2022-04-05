@@ -16,13 +16,19 @@
       "isdetail": false,
       "Name": " ફોર્મ ભરવા માટે ના આવશ્યક દસ્તાવેજો",
       "detail": "ફોર્મ ભરવા માટે ના આવશ્યક દસ્તાવેજો",
-      "imagelink": "https://harshil258.github.io/gharbaithepaisechape/photos/one.png"
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled.jpg"
     },
     {
       "isdetail": false,
       "Name": "અપલોડ કરવાના થતા ડોક્યમ ેન્ટ",
       "detail": "https://rte.orpgujarat.com/Content/Docs/UserManual/required-douments.pdf",
-      "imagelink": "https://harshil258.github.io/gharbaithepaisechape/photos/one.png"
+      "imagelink": "https://harshil258.github.io/RTE_app/requireddoc.jpg"
+    },
+    {
+      "isdetail": false,
+      "Name": "અપલોડ કરવાના થતા ડોક્યમ ેન્ટ",
+      "detail": "https://rte.orpgujarat.com/Common/SchoolList",
+      "imagelink": "https://harshil258.github.io/RTE_app/Untitled(3).png"
     }
   ]
 }
