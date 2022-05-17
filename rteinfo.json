@@ -8,7 +8,11 @@
       "appnextid": "92b574f0-04eb-44c3-b131-864a1b964779",
       "maxbanner": "56304bd252a6996a",
       "maxinterstitial": "02409a52b4faa1e7",
-      "maxnative": "395537ad9cfc1a01"
+      "maxnative": "395537ad9cfc1a01",
+      "interstitialfrequancy": 1,
+            "nativefrequancy": 1,
+      "ADSON": true,
+      "isgoogle" : false,
     }
   ],
   "data": [
